@@ -1,2 +1,3 @@
 # HR_ANALYTICS_
-i make project about all list of company employee list.
+this is a power bi project end to end.
+very simple use power bi tools excel web sql server
